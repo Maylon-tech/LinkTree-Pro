@@ -11,10 +11,14 @@
 
 <br />
 
-  ![Pfolio Desktop Demo](./Readme-images/Desktop-Layout.png "Desktop Demo")
-  ![Pfolio Desktop Demo](./Readme-images/Mobile-responsive.png "Mobile Demo")
+  ### Desktop View
   
-### Desktop view
+  ![Pfolio Desktop Demo](./Readme-images/Desktop-Layout.png "Desktop Demo")
+
+  ### Mobile view
+  
+  ![Pfolio Desktop Demo](./Readme-images/Mobile-responsive.png "Mobile Demo")
+
 
 
 ### Prerequisites

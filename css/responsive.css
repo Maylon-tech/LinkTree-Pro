@@ -1,0 +1,160 @@
+@media (min-width: 1500px) and (max-width: 1920px) {
+    .header {
+        margin: 40px 0;
+    }
+    .header .image {
+        margin-bottom: 10px;
+    }
+    .header .image img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        padding: 8px;
+        border: 4px solid green;
+        box-shadow: 0px 0px 25px 0px rgba(228, 218, 218, 0.473)
+    }
+    .header h1 {
+        font-size: 30px;
+    }
+
+    .content-icon nav {
+        border-top: 2px solid white;
+        border-bottom: 2px solid white;
+        padding: 18px;
+    }
+    .content-icon li {
+        margin: 0px 40px;
+    }
+    .content-icon a {
+        padding: 12px;
+    }
+    .content-icon i {
+        font-size: 40px;
+        color: rgb(181, 235, 236);
+    }
+
+    .content-link {
+        margin-top: 17px;
+        
+    }
+    .content-link ul {
+        list-style: none;
+        width: 100%;
+    }
+    .content-link li {
+        margin: 25px 0;
+        border: 2px solid white;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75)
+    }
+    .content-link a {
+        font-size: 24px;
+        padding: 15px;
+    }
+}
+
+@media (min-width: 560px) and (max-width: 740px) {
+    .header {
+        margin: 20px 0;
+    }
+    .header .image {
+        margin-bottom: 10px;
+    }
+    .header .image img {
+        width: 150px;
+        height: 150px;  
+    }
+    .header h2 {
+        font-size: 20px;
+    }
+    .content-icon li {
+        margin: 0px 30px;
+    }
+    .content-icon i {
+        font-size: 35px;
+    }
+
+    .content-link {
+        margin-top: 17px;
+        
+    }
+    .content-link li {
+        margin: 25px 0;
+        padding: 15px;
+
+    }
+    .content-link a {
+        font-size: 24px;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 280px) and (max-width: 400px) {
+    .home {
+        height:100vh;
+        background-attachment: fixed;
+    }
+    .header {
+        margin: 10px 0;
+    }
+    .header .image {
+        width: 100px;
+        height:100px;
+        padding: 8px;
+    }
+    .header h1 {
+        font-size: 1rem;
+    }
+
+    .subtitle {
+        font-size: 0.8rem;
+    }
+
+     .header h3 {
+        font-size: 0.8rem;
+    }
+    .header h3::before {
+        top: 10px;
+        left: -3px;
+        font-size: 1rem;
+    }
+    .header h3::after {
+        top: 10px;
+        right: -5px;
+        font-size: 1rem;
+    }
+
+    .content-icon {
+        width: 100%;
+    }
+    .content-icon nav {
+        border-top: 1px solid white;
+        border-bottom: 1px solid white;
+        padding: 12px;
+    }
+    .content-icon li {
+        margin: 0px 6px;
+    }
+    .content-icon a {
+        padding: 12px;
+    }
+    .content-icon i {
+        font-size: 20px;
+    }
+
+    .content-link {
+        margin-top: 14px;
+        width: 90%;
+    }
+    .content-link li {
+        padding: 8px;
+        margin: 6px auto;
+    }
+    .content-link a {
+        font-size: 0.7rem;
+        font-weight: bold;
+        text-align: center;
+        padding: 10px;
+    }
+} 

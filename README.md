@@ -11,9 +11,13 @@
 
 <br />
 
-### Demo Screeshots
+<div display="flex" gap="20px">
+  ![Pfolio Desktop Demo](./Readme-images/Desktop-Layout.png "Desktop Demo")
+   [Pfolio Desktop Demo](./Readme-images/Mobile-responsive.png "Mobile Demo")
+  
+</div>
+### Desktop view
 
-![Pfolio Desktop Demo](./Readme-images/Desktop-Layout.png "Desktop Demo")
 
 ### Prerequisites
 

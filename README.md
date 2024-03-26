@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Pfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Pfolio Desktop Demo](./Readme-images/Desktop-Layout.png "Desktop Demo")
 
 ### Prerequisites
 
